@@ -1,0 +1,9 @@
+{
+  "name": "flip",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+ "scripts": {
+  "dev": "sass --watch index.scss build/index.css"
+ }
+}
